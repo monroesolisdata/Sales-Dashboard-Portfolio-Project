@@ -4,7 +4,7 @@
 ### The following findings emerged from the analysis and are supported directly by the data:
 <img width="674" height="254" alt="image" src="https://github.com/user-attachments/assets/fad0eb7b-d047-42d4-a7f9-ec42c7d8bf8b" />
 
-## Resources:
+## Resources
 Raw Source Data:[Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/Sample%20-%20Superstore.csv)
 
 Full Python Workflow:[Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/clean.ipynb)
