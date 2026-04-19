@@ -26,4 +26,4 @@ Python · pandas · SQLite · SQLAlchemy · SQL · Power BI
 | methodology.docx | Full methodology and findings document |
 
 ## Dashboard Preview
-[Add a screenshot of your Power BI dashboard here]
+![Dashboard](/superstore_dashboard.pbix)
