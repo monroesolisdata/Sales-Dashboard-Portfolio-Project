@@ -1,20 +1,29 @@
-# Sales-Dashboard-Portfolio-Project
+# Sales Performance Dashboard
 
-## Key Business Findings
-### The following findings emerged from the analysis and are supported directly by the data:
-<img width="674" height="254" alt="image" src="https://github.com/user-attachments/assets/fad0eb7b-d047-42d4-a7f9-ec42c7d8bf8b" />
+End-to-end data analytics project using Python, SQL, and Power BI.
 
-## Resources
-Raw Source Data:[Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/Sample%20-%20Superstore.csv)
+## Tools Used
+Python · pandas · SQLite · SQLAlchemy · SQL · Power BI
 
-Full Python Workflow:[Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/clean.ipynb)
+## What I Built
+- Cleaned and transformed 9,994 rows of raw retail sales data using pandas
+- Loaded data into a SQLite database and queried KPIs using SQL
+- Built an interactive Power BI dashboard with slicers, KPI cards, and trend charts
 
-Cleaned Output: [Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/superstore_clean.csv)
+## Key Findings
+- West region leads in revenue ($725K) but Central has the worst profit margin (7.9%)
+- Furniture generates $742K in sales but only $18K profit — a 2.5% margin vs 17%+ for Technology
+- Order volume grew 66% from 2014–2017 but revenue only grew 51%, meaning average order value is shrinking
+- Clear Q4 seasonality spike every year
 
-SQLite database: [Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/superstore.db)
+## Files
+| File | Description |
+|------|-------------|
+| clean.py | Data cleaning, feature engineering, SQLite load |
+| superstore_clean.csv | Cleaned dataset |
+| superstore.db | SQLite database |
+| superstore_dashboard.pbix | Power BI report |
+| methodology.docx | Full methodology and findings document |
 
-Power BI report: [Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/superstore_dashboard.pbix)
-
-Methodology Document: [Link](https://github.com/monroesolisdata/Sales-Dashboard-Portfolio-Project/blob/main/methodology.docx)
-
-
+## Dashboard Preview
+[Add a screenshot of your Power BI dashboard here]
