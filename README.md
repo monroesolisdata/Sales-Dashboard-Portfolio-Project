@@ -26,4 +26,4 @@ Python · pandas · SQLite · SQLAlchemy · SQL · Power BI
 | methodology.docx | Full methodology and findings document |
 
 ## Dashboard Preview
-![Dashboard](/superstore_dashboard.pbix)
+[Dashboard](https://cdn.discordapp.com/attachments/1479194074253754472/1495428158239805460/superstore_dashboard_page-0001.jpg?ex=69e63580&is=69e4e400&hm=a542df17a85dc962102bfa4c925c12240c4ebe60bdc495d204a8fc46f276ba8e&)
